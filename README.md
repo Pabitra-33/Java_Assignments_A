@@ -1,2 +1,2 @@
 # Java_Assignments_A
-Completed and practiced all given java basic programs.
+Completed all the given java basic programs.
